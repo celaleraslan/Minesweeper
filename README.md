@@ -1,4 +1,4 @@
-# Minesweeper
+# Minesweeper -  C Language
 # Minesweeper User Manual
 c - opening the are
 d - Putting flags where you think mines are found
